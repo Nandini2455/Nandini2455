@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nandini Pathivada
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Data structures and ALgorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  smart class attendance project utilizing facial recognition and machine learning."
 - 📫 How to reach me pathivadanandini24@gmail.com
 - 😄 Pronouns: she/her
 

@@ -1,5 +1,7 @@
 - 👋 Hi,I’m Nandini Pathivada
-I specialize in Artificial Intelligence and Machine Learning, with a strong focus on practical, impactful applications. Currently advancing my knowledge of Data Structures and Algorithms to build a solid foundation in computer science.
+I specialize in Artificial Intelligence and Machine Learning, with a strong focus on practical, impactful applications.
+
+Currently advancing my knowledge of Data Structures and Algorithms to build a solid foundation in computer science.
 
 I am actively seeking opportunities to collaborate on innovative projects, particularly in smart class attendance systems leveraging facial recognition and machine learning technologies.
 

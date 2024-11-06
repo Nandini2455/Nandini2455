@@ -1,9 +1,10 @@
 - 👋 Hi,I’m Nandini Pathivada
-I specialize in Artificial Intelligence and Machine Learning, with a strong focus on practical, impactful applications.
+I am a passionate AI and Machine Learning enthusiast, focusing on creating practical, real-world solutions.
+ Currently, I’m deepening my understanding of Data Structures and Algorithms to strengthen my core computer science skills.
 
-Currently advancing my knowledge of Data Structures and Algorithms to build a solid foundation in computer science.
+I am particularly interested in the intersection of facial recognition and machine learning to build cutting-edge solutions, such as smart attendance systems. I am actively seeking opportunities to collaborate on innovative projects that make a meaningful impact in the field of AI.
 
-I am actively seeking opportunities to collaborate on innovative projects, particularly in smart class attendance systems leveraging facial recognition and machine learning technologies.
+
 
 Gmail: pathivadanandini24@gmail.com.
 
